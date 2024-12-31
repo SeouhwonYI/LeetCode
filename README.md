@@ -64,6 +64,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SeouhwonYI/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SeouhwonYI/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SeouhwonYI/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/SeouhwonYI/LeetCode/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
