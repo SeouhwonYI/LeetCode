@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/SeouhwonYI/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SeouhwonYI/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SeouhwonYI/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SeouhwonYI/LeetCode/tree/master/0055-jump-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SeouhwonYI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SeouhwonYI/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SeouhwonYI/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SeouhwonYI/LeetCode/tree/master/0055-jump-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SeouhwonYI/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -83,6 +85,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SeouhwonYI/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SeouhwonYI/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SeouhwonYI/LeetCode/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
