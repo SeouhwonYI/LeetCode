@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SeouhwonYI/LeetCode/tree/master/0011-container-with-most-water) |
+| [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SeouhwonYI/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SeouhwonYI/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Hash Table
