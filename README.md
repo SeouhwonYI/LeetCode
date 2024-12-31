@@ -15,6 +15,7 @@
 | [0055-jump-game](https://github.com/SeouhwonYI/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/SeouhwonYI/LeetCode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/SeouhwonYI/LeetCode/tree/master/0079-word-search) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SeouhwonYI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SeouhwonYI/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/SeouhwonYI/LeetCode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/SeouhwonYI/LeetCode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SeouhwonYI/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/SeouhwonYI/LeetCode/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/SeouhwonYI/LeetCode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
