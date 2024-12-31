@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SeouhwonYI/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0015-3sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SeouhwonYI/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SeouhwonYI/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SeouhwonYI/LeetCode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
