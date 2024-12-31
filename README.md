@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SeouhwonYI/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/SeouhwonYI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SeouhwonYI/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -56,6 +57,7 @@
 | [0014-longest-common-prefix](https://github.com/SeouhwonYI/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SeouhwonYI/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SeouhwonYI/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/SeouhwonYI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SeouhwonYI/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SeouhwonYI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
