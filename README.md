@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/SeouhwonYI/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SeouhwonYI/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SeouhwonYI/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/SeouhwonYI/LeetCode/tree/master/0062-unique-paths) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SeouhwonYI/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -47,6 +48,7 @@
 | [0009-palindrome-number](https://github.com/SeouhwonYI/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SeouhwonYI/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SeouhwonYI/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/SeouhwonYI/LeetCode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SeouhwonYI/LeetCode/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SeouhwonYI/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
