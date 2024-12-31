@@ -14,6 +14,7 @@
 | [0045-jump-game-ii](https://github.com/SeouhwonYI/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SeouhwonYI/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/SeouhwonYI/LeetCode/tree/master/0068-text-justification) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Dynamic Programming
@@ -69,6 +70,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SeouhwonYI/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SeouhwonYI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SeouhwonYI/LeetCode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/SeouhwonYI/LeetCode/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0064-minimum-path-sum) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/SeouhwonYI/LeetCode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
