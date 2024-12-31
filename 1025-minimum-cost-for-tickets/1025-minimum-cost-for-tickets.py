@@ -11,6 +11,8 @@ class Solution:
             # invalid 30-day pass on day d    
             while last30 and last30[0][0] + 30 <= d:
                 last30.pop(0)
+            # after above, it remains valid cases on day d
+            
             last7.append((d, cost + costs[1]))
             last30.append((d, cost + costs[2]))
             # one-day pass? or 7-day or 30-day pass?
