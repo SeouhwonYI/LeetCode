@@ -73,6 +73,7 @@
 | [0058-length-of-last-word](https://github.com/SeouhwonYI/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/SeouhwonYI/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/SeouhwonYI/LeetCode/tree/master/0079-word-search) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SeouhwonYI/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/SeouhwonYI/LeetCode/tree/master/0068-text-justification) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/SeouhwonYI/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
