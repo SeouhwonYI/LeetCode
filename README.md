@@ -17,6 +17,7 @@
 | [0068-text-justification](https://github.com/SeouhwonYI/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/SeouhwonYI/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SeouhwonYI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/SeouhwonYI/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Dynamic Programming
@@ -29,6 +30,7 @@
 | [0055-jump-game](https://github.com/SeouhwonYI/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SeouhwonYI/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/SeouhwonYI/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SeouhwonYI/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -121,10 +123,12 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SeouhwonYI/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SeouhwonYI/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/SeouhwonYI/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SeouhwonYI/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/SeouhwonYI/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Combinatorics
 |  |
 | ------- |
@@ -134,6 +138,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/SeouhwonYI/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/SeouhwonYI/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
