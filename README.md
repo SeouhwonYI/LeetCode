@@ -16,6 +16,7 @@
 | [0064-minimum-path-sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/SeouhwonYI/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/SeouhwonYI/LeetCode/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SeouhwonYI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Dynamic Programming
@@ -90,6 +91,7 @@
 | [0027-remove-element](https://github.com/SeouhwonYI/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SeouhwonYI/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SeouhwonYI/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SeouhwonYI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Greedy
 |  |
 | ------- |
