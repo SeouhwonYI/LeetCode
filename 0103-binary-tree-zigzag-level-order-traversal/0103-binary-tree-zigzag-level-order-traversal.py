@@ -6,6 +6,7 @@
 #         self.right = right
 class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        # new way: two queue: current, next nodes, for i in range(len(current_queue))
         if not root:
             return []
         sol = [[root.val]]
