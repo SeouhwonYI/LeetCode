@@ -21,6 +21,7 @@
 | [0088-merge-sorted-array](https://github.com/SeouhwonYI/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [2358-number-of-ways-to-split-array](https://github.com/SeouhwonYI/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SeouhwonYI/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SeouhwonYI/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/SeouhwonYI/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SeouhwonYI/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Tree
 |  |
