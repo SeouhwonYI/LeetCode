@@ -19,6 +19,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SeouhwonYI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/SeouhwonYI/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SeouhwonYI/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SeouhwonYI/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2358-number-of-ways-to-split-array](https://github.com/SeouhwonYI/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -34,6 +35,7 @@
 | [0062-unique-paths](https://github.com/SeouhwonYI/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/SeouhwonYI/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/SeouhwonYI/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SeouhwonYI/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SeouhwonYI/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
