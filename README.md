@@ -23,6 +23,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SeouhwonYI/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/SeouhwonYI/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SeouhwonYI/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SeouhwonYI/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/SeouhwonYI/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SeouhwonYI/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
@@ -84,6 +85,7 @@
 | [0068-text-justification](https://github.com/SeouhwonYI/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/SeouhwonYI/LeetCode/tree/master/0079-word-search) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SeouhwonYI/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SeouhwonYI/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SeouhwonYI/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SeouhwonYI/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SeouhwonYI/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/SeouhwonYI/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SeouhwonYI/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Tree
